@@ -6,7 +6,16 @@
   "repository": "git@github.com:giodamelio/eslint-config-thehelpining.git",
   "author": "Gio d'Amelio <giodamelio@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "lint": "eslint *.js",
+    "prepush": "npm run lint"
+  },
   "dependencies": {
     "@scottnonnenberg/eslint-config-thehelp": "0.8.0"
+  },
+  "devDependencies": {
+    "@giodamelio/eslint-config-thehelpining": "^0.1.0",
+    "eslint": "^3.16.0",
+    "husky": "^0.13.1"
   }
 }
