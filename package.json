@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git@github.com:giodamelio/eslint-plugin-thehelpining.git",
   "author": "Gio d'Amelio <giodamelio@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@scottnonnenberg/eslint-config-thehelp": "0.8.0"
+  }
 }
