@@ -31,7 +31,7 @@ node ./node_modules/@giodamelio/eslint-plugin-thehelpining/generate-configs.js
 The presets contain some rules for use with specific environments.
 
 1. `@giodamelio/thehelpining/react`: Rules for React component structure and JSX formatting. [@scottnonnenberg/thehelp/react][thehelp-configs] with a few tweaks.
-2. `@giodamelio/thehelpining/node`: Rules for Node.js. TODO: actually create this.
+2. `@giodamelio/thehelpining/node`: Rules for Node.js.
 
 ## Thanks
 
