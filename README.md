@@ -1,5 +1,7 @@
 # @giodamelio/eslint-config-thehelpining
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/giodamelio/eslint-config-thehelpining.svg)](https://greenkeeper.io/)
+
 My personal ESLint config. This is really just a thin wrapper around [@scottnonnenberg/eslint-config-thehelp](https://github.com/scottnonnenberg/eslint-config-thehelp) with some tweaks to make it fit my style.
 
 ## Install
