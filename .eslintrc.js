@@ -1,6 +1,6 @@
 module.exports = {
   extends: [
-    '@giodamelio/thehelpining',
-    '@giodamelio/thehelpining/node',
+    './default.js',
+    './node.js',
   ],
 };
