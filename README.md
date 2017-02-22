@@ -5,16 +5,16 @@ My personal ESLint config. This is really just a thin wrapper around [@scottnonn
 ## Install
 
 ``` shell
-npm install --save-dev @giodamelio/eslint-plugin-thehelpining
+npm install --save-dev @giodamelio/eslint-config-thehelpining
 # or
-yarn add --dev @giodamelio/eslint-plugin-thehelpining
+yarn add --dev @giodamelio/eslint-config-thehelpining
 ```
 
 To auto generate configuration files (`.eslintrc.js`) and npm scripts run:
 
 TODO: Create this script
 ``` shell
-node ./node_modules/@giodamelio/eslint-plugin-thehelpining/generate-configs.js
+node ./node_modules/@giodamelio/eslint-config-thehelpining/generate_configs.js
 ```
 
 ## Presets
