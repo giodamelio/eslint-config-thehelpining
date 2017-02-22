@@ -1,9 +1,9 @@
 {
-  "name": "@giodamelio/eslint-plugin-thehelpining",
+  "name": "@giodamelio/eslint-config-thehelpining",
   "version": "0.1.0",
   "description": "My personal eslint config based on @scottnonnenberg/eslint-config-thehelp",
   "main": "index.js",
-  "repository": "git@github.com:giodamelio/eslint-plugin-thehelpining.git",
+  "repository": "git@github.com:giodamelio/eslint-config-thehelpining.git",
   "author": "Gio d'Amelio <giodamelio@gmail.com>",
   "license": "MIT",
   "dependencies": {
