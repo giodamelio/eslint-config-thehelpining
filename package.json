@@ -11,7 +11,9 @@
     "prepush": "npm run lint"
   },
   "dependencies": {
-    "@scottnonnenberg/eslint-config-thehelp": "0.8.0"
+    "@scottnonnenberg/eslint-config-thehelp": "0.8.0",
+    "inquirer": "^3.0.2",
+    "json2yaml": "^1.1.0"
   },
   "devDependencies": {
     "eslint": "^3.16.0",
