@@ -16,6 +16,16 @@ To auto generate configuration files (`.eslintrc.js`) and npm scripts run:
 node ./node_modules/@giodamelio/eslint-config-thehelpining/generate_configs.js
 ```
 
+To manually install add `@giodamelio/thehelpining` to your `.eslintrc.js` extends section.
+
+``` javascript
+module.exports = {
+  extends: [
+    '@giodamelio/thehelpining',
+  ],
+};
+```
+
 ## Presets
 
 1. `@giodamelio/thehelpining`: Default config. Includes `core`, `es2015` and `functional`.
