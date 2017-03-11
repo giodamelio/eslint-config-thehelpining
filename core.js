@@ -6,5 +6,6 @@ module.exports = {
     'arrow-parens': ['error', 'always'],
     'func-names': 'off',
     'brace-style': ['error', '1tbs'],
+    'no-inline-comments': 'off',
   },
 };
